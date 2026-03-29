@@ -86,6 +86,3 @@ tourist-demand-prediction/
 - Add seasonality features (monthly breakdown instead of annual means)
 - Experiment with gradient boosting models (XGBoost, LightGBM)
 
----
-
-*UBC Data Science Portfolio Project — 2026*e acknowledged in the notebook and motivate clear directions for future work.
